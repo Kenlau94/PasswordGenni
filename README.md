@@ -64,11 +64,12 @@ THEN the password is either displayed in an alert or written to the page
 
 ### Link to Deployed App.
 
-(Click for Deployed App)[http://127.0.0.1:5500/Develop/index.html]
-(Click for GitHub)[https://github.com/Kenlau94/PasswordGenni]
+# (Click for Deployed App)[http://127.0.0.1:5500/Develop/index.html]
+
+# (Click for GitHub)[https://github.com/Kenlau94/PasswordGenni]
 
 ### ScreenShot
 
-# ![screenshot](./Develop/Assets/Genni.jpg)
+![screenshot](./Develop/Assets/Genni.jpg)
 
-# ![screenshot](./Develop/Assets/genniatwork.jpg)
+![screenshot](./Develop/Assets/genniatwork.jpg)
