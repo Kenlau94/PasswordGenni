@@ -69,5 +69,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ### ScreenShot
 
-![screenshot](./Assets/Genni.jpg)
-![screenshot2](./Assets/genniatwork.jpg)
+![screenshot](./Develop/Assets/Genni.jpg)
+![screenshot](./Develop/Assets/genniatwork.jpg)
